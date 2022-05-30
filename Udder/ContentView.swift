@@ -19,6 +19,10 @@ struct ContentView: View {
         Text("Fresh milk, On demand!").padding()
             
         Spacer()
+            
+        Image(systemName: "trash")
+            
+        Spacer()
         }
         
         
